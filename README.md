@@ -9,11 +9,11 @@ Al encontrarse la información distribuida en distintas páginas las cuales debe
 
 Para ejecutar el script se requiere instalar las siquientes bibliotecas
 
-pip install pandas
-pip install requests
-pip install lxml
-pip install beautifulsoup4
-pip install time
+  pip install pandas
+  pip install requests
+  pip install lxml
+  pip install beautifulsoup4
+  pip install time
 
 El script se ejecuta en un entorno python 3.6
 
